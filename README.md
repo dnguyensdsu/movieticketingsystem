@@ -1,1 +1,1 @@
-Movie Ticking System
+Movie Ticketing System
